@@ -1,6 +1,6 @@
 # Neural Network for MNIST object recognition
 
-This neural network was built by me as one of the task for the optimization course. 
+This neural network was built by me as one of the tasks during the optimization course. 
 It uses [Fashion-MNIST dataset](http://yann.lecun.com/exdb/mnist/). Each image in the dataset is a 28x28 grayscale picture of the cloth, associated with a label from 10 classes. 
 <p align="left"><b>Input image samples</b></p>
 
@@ -23,7 +23,7 @@ It uses [Fashion-MNIST dataset](http://yann.lecun.com/exdb/mnist/). Each image i
 |     <span>    |             |         |          |       |      |        |       |         |     |            |
 |---------------|-------------|---------|----------|-------|------|--------|-------|---------|-----|------------|
 |    *Lable*    |      0      |    1    |     2    |   3   |   4  |    5   |   6   |    7    |  8  |      9     |
-| *Description* | T-shirt/top | Trouser | Pullover | Dress | Coat | Sandal | Shirt | Sneaker | Bag | Ankle boot |
+| *Description* | T-shirt     | Trouser | Pullover | Dress | Coat | Sandal | Shirt | Sneaker | Bag | Ankle boot |
 
 <p align="left"><b>Architecture</b></p>
 
